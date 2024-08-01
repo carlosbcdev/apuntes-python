@@ -2,4 +2,5 @@ title: "Apuntes Python"
 description: "Apuntes sobre python para Zafiro"
 theme: jekyll-theme-cayman
 markdown: kramdown
+baseurl: "/apuntes-python"
 permalink: /:year/:month/:day/:title.html
