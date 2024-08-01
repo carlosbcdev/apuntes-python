@@ -1,3 +1,17 @@
+---
+layout: default
+title: "Inicio"
+---
+
+# Python para zafiro
+
+## Temas:
+
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
+
+
 ### ¿Qué es una función?
 
 Una **función** es un bloque de código reutilizable que realiza una tarea específica. En Python, las funciones nos permiten organizar y estructurar nuestro código de una manera clara y modular.
