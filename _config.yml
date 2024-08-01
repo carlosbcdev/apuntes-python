@@ -2,3 +2,4 @@ title: "Apuntes Python"
 description: "Apuntes sobre python para Zafiro"
 theme: jekyll-theme-cayman
 markdown: kramdown
+permalink: /:year/:month/:day/:title.html
